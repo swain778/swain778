@@ -1,3 +1,5 @@
+![logo](https://github.com/swain778/swain778/blob/main/github-header-image(1).png)
+
 <h1 align="center">Hi 👋, I'm Shubham swain</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swain778&label=Profile%20views&color=0e75b6&style=flat" alt="swain778" /> </p>
 
