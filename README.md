@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://grpc.io" target="_blank" rel="noreferrer">
-    <img src="path/to/grpc-logo.png" alt="gRPC" width="40" height="40"/>
+    <img src="https://enouvo.com/wp-content/uploads/2020/08/grpc-horizontal-white-1-min.jpg" alt="gRPC" width="40" height="40"/>
   </a>
 </p>
 
