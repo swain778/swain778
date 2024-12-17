@@ -1,62 +1,96 @@
-![logo](https://github.com/swain778/swain778/blob/main/github-header-image(1).png)
+![Shubham's Logo](https://github.com/swain778/swain778/blob/main/github-header-image(1).png)
 
-<h1 align="center">Hi 👋, I'm Shubham swain</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swain778&label=Profile%20views&color=0e75b6&style=flat" alt="swain778" /> </p>
+<h1 align="center">Hi 👋, I'm Shubham Swain</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swain778&label=Profile%20views&color=0e75b6&style=flat" alt="swain778" /> </p>
 
-👋 A software engineer with over 2 years of hands-on experience in building robust and scalable applications. My expertise lies in the intersection of cutting-edge technologies, and I specialize in harnessing the power of Golang, GraphQL, PostgreSQL, and Git.
+---
 
-🌐 My journey in the world of technology is driven by a curiosity to solve complex problems and a commitment to staying on the cutting edge of industry trends. I'm excited about building software that not only meets but exceeds expectations.
+### 👨‍💻 **About Me**
 
-<h3 align="left">Connect with me:</h3>
+I am a software engineer with over **3 years** of hands-on experience in building robust and scalable applications. I am passionate about solving complex problems and always striving to stay on the cutting edge of technology. With expertise in **Golang**, **GraphQL**, **PostgreSQL**, and **Docker**, I specialize in creating efficient, high-performance systems. My goal is to leverage my knowledge to deliver high-quality software that exceeds expectations.
+
+🌱 **Currently learning**: Advanced Kubernetes, Distributed Systems, and Cloud-native architectures.
+
+🚀 **Goal**: To build impactful applications that drive positive change in the tech ecosystem.
+
+---
+
+### 🌐 **Connect with Me:**
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-swain-152518163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Swain" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/swain_shub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swain_shub" height="30" width="40" /></a>
+
+---
+
+### 🛠️ **Languages & Tools**
+
+- **Languages**: Go, Python, SQL, JavaScript
+- **Frameworks & Libraries**: GraphQL, gRPC, Docker, Kubernetes, React
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git, Docker, Kubernetes, Terraform, Jenkins
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-swain-152518163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham swain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/swain_shub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swain_shub" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://grpc.io" target="_blank" rel="noreferrer">
-    <img src="https://enouvo.com/wp-content/uploads/2020/08/grpc-horizontal-white-1-min.jpg" alt="gRPC" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
 
+---
 
-
+### 💻 **GitHub Stats**
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=swain778&show_icons=true&theme=radical)
 
+---
 
+### 🏆 **Top Languages**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swain778&show_icons=true&locale=en&layout=compact" alt="swain778" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swain778&show_icons=true&locale=en&layout=compact" alt="swain778" />
+</p>
 
+---
 
+### 🌱 **Learning Journey**
 
+I am always exploring new technologies and concepts to enhance my skill set. Here's what I'm currently diving into:
+
+- **Cloud Architectures**: Exploring solutions in AWS, GCP, and Azure.
+- **Distributed Systems**: Understanding the intricacies of microservices and their orchestration.
+- **Machine Learning**: Working on integrating ML models into production applications.
+
+---
+
+### 🤝 **Collaborations & Contributions**
+
+I enjoy collaborating on open-source projects and contributing to the tech community. Feel free to reach out if you'd like to collaborate on any project, contribute to an open-source initiative, or simply exchange ideas.
+
+---
+
+### 📈 **My Achievements**
+
+- **Completed 100+ coding challenges** on platforms like HackerRank and LeetCode.
+- **Contributed to multiple open-source projects** focused on performance optimization and scalability.
+- **Developed scalable systems** in Go and Kubernetes for enterprise-level applications.
+
+---
+
+### 📫 **Contact Me**
+
+- 📧 **Email**: [shubham@example.com](mailto:shubham@example.com)
+
+---
+
+🔗 **Let's Build Something Amazing Together!**
