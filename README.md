@@ -89,7 +89,7 @@ I enjoy collaborating on open-source projects and contributing to the tech commu
 
 ### 📫 **Contact Me**
 
-- 📧 **Email**: [shubham@example.com](mailto:swain.shub@gmail.com)
+- 📧 **Email**: [swain.shub@gmail.com](mailto:swain.shub@gmail.com)
 
 ---
 
